@@ -1,0 +1,14 @@
+*.exe
+*.zip
+__pycache__/
+*.pyc
+.venv/
+venv/
+build/
+dist/
+training/
+*.mp4
+*.log
+*.lnk
+.env
+.env.*
